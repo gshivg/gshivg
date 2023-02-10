@@ -1,5 +1,10 @@
-### Hi there 👋
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+  <h1>Well Hello There 👋</h1>
+</div>
+ 
 <!--
 **gshivg/gshivg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
